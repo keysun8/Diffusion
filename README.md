@@ -17,11 +17,11 @@ Handwriting is more than just text; it is a personal signature of identity. **Li
 * **High-Fidelity Synthesis:** Using Latent Diffusion to ensure crisp, realistic ink-on-paper textures.
 
 <p align="center">
-  <img src="assets/f1_english.png" width="45%" />
+  <img src="b1625e93-06a7-4dd4-b667-1e5822b91e5d.png" width="45%" />
   <img src="assets/paragraph_style_638" width="45%" /> 
 </p>
 <p align="center">
-  <img src="b1625e93-06a7-4dd4-b667-1e5822b91e5d.png width="60%" />
+  <img src="assets/paragraph_style_638" width="60%" />
   <br>
   <em>Figure 2: Diversity in Training Data — From English F1 commentary to Devanagari script.</em>
 </p>
