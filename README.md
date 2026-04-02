@@ -18,7 +18,7 @@ Handwriting is more than just text; it is a personal signature of identity. **Li
 
 <p align="center">
   <img src="b1625e93-06a7-4dd4-b667-1e5822b91e5d.png" width="45%" />
-  <img src="assets/paragraph_style_638" width="45%" /> 
+  <img src="paragraph_style_638.png" width="45%" /> 
 </p>
 <p align="center">
   <img src="paragraph_style_638" width="60%" />
