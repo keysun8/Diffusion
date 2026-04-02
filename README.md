@@ -3,7 +3,7 @@
 # LinguaScribe: Multi-Lingual Handwriting Synthesis via Latent Diffusion
 
 <p align="center">
-  <img src="assets/diffusionpen.png" width="800" alt="Diffusion Model Architecture">
+  <img src="diffusionpen.png" width="800" alt="Diffusion Model Architecture">
   <br>
   <em>Figure 1: The Core Architecture — Utilizing VAEs and Diffusion for Stylized Generation.</em>
 </p>
@@ -21,7 +21,7 @@ Handwriting is more than just text; it is a personal signature of identity. **Li
   <img src="assets/paragraph_style_638" width="45%" /> 
 </p>
 <p align="center">
-  <img src="assets/paragraph_style_638" width="60%" />
+  <img src="paragraph_style_638" width="60%" />
   <br>
   <em>Figure 2: Diversity in Training Data — From English F1 commentary to Devanagari script.</em>
 </p>
