@@ -3,7 +3,7 @@
 # LinguaScribe: Multi-Lingual Handwriting Synthesis via Latent Diffusion
 
 <p align="center">
-  <img src="assets/image.png" width="800" alt="Diffusion Model Architecture">
+  <img src="assets/diffusionpen.png" width="800" alt="Diffusion Model Architecture">
   <br>
   <em>Figure 1: The Core Architecture — Utilizing VAEs and Diffusion for Stylized Generation.</em>
 </p>
